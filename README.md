@@ -6,10 +6,10 @@ I'm @LorenzooCr, passionate about learning and currently diving into TypeScript.
 
 My recent project incorporates various technologies, with the following language distribution:
 
-- **TypeScript:** 79.8% 💻
-- **CSS:** 13.6% 🎨
-- **EJS:** 5.9% 🌐
-- **JavaScript:** 0.7% 🚀
+- **TypeScript:** 70% 💻
+- **CSS:** 15% 🎨
+- **EJS:** 10% 🌐
+- **JavaScript:** 5% 🚀
 
 If you're interested in learning more or contributing, feel free to connect with me on [Discord](https://discord.spritzbot.it).
 

@@ -13,9 +13,7 @@ I'm @LorenzooCr, passionate about learning and currently diving into TypeScript.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzooCr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LorenzooCr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
+![](https://github-profile-trophy.vercel.app/?username=LorenzooCr&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/lorenzocre) 

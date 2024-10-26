@@ -16,7 +16,6 @@ I'm @LorenzooCr, passionate about learning and currently diving into TypeScript.
 ![](https://github-profile-trophy.vercel.app/?username=LorenzooCr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LorenzooCr&icon=5&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/lorenzocre) 
